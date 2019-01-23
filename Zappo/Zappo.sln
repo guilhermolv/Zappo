@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zappo.Plugins", "Zappo.Plugins.csproj", "{06E11C9F-3462-C697-7A31-3B362C288FC6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zappo", "Zappo.csproj", "{1DA8ECD3-B58A-AC38-EA1D-AD46AD36F568}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zappo.Editor", "Zappo.Editor.csproj", "{EA20188E-972B-AC64-B099-F78732C4DED9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{06E11C9F-3462-C697-7A31-3B362C288FC6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{06E11C9F-3462-C697-7A31-3B362C288FC6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{06E11C9F-3462-C697-7A31-3B362C288FC6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{06E11C9F-3462-C697-7A31-3B362C288FC6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1DA8ECD3-B58A-AC38-EA1D-AD46AD36F568}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1DA8ECD3-B58A-AC38-EA1D-AD46AD36F568}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1DA8ECD3-B58A-AC38-EA1D-AD46AD36F568}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1DA8ECD3-B58A-AC38-EA1D-AD46AD36F568}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EA20188E-972B-AC64-B099-F78732C4DED9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA20188E-972B-AC64-B099-F78732C4DED9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA20188E-972B-AC64-B099-F78732C4DED9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA20188E-972B-AC64-B099-F78732C4DED9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
